@@ -164,9 +164,8 @@ Ensure to configure production environment variables securely in your hosting pl
 
 ## 👩‍💻 Author
 
-**Hrishika Singh**  
-B.Tech, IIIT Allahabad  
-GitHub: [@riri-2k3](https://github.com/riri-2k3)
+**Bhaskar Rai**  
+B.Tech, VIT Bhopal University 
 
 ---
 
